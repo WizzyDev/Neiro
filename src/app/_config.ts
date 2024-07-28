@@ -25,26 +25,27 @@ type Config = {
 };
 
 export const config: Config = {
-  aDisplayNameShort: "Boden",
-  aDisplayNameLong: "Jeo Boden",
-  aDescriptor: "boden",
-  aMint: "3psH1Mj1f7yUfaD5gh6Zj7epE8hhrMkMETgv5TshQA4o",
+  aDisplayNameShort: "NEIRO",
+  aDisplayNameLong: "NEIRO",
+  aDescriptor: "19:55 UTC MINT",
+  aMint: "CTg3ZgYx79zrE1MteDVkmkcGniiFrK1hJ6yiabropump",
   aColor: "rgb(1,73,171)",
-  aDecimals: 9,
-  aTicker: "BODEN",
-  aCoingeckoId: "jeo-boden",
+  aDecimals: 6,
+  aTicker: "NEIRO",
+  aCoingeckoId: "NEIRO",
 
-  bDisplayNameShort: "Tremp",
-  bDisplayNameLong: "Doland Tremp",
-  bDescriptor: "tremp",
-  bMint: "FU1q8vJpZNUrmqsciSjp8bAKKidGsLmouB8CBdf8TKQv",
+  bDisplayNameShort: "Neiro",
+  bDisplayNameLong: "Neiro",
+  bDescriptor: "21:05 UTC MINT",
+  bMint: "CTJf74cTo3cw8acFP1YXF3QpsQUUBGBjh2k2e8xsZ6UL",
   bColor: "rgb(220,38,38)",
-  bDecimals: 9,
-  bTicker: "TREMP",
-  bCoingeckoId: "donald-tremp",
+  bDecimals: 6,
+  bTicker: "Neiro",
+  bCoingeckoId: "Neiro",
 
-  author: "0xAlice",
-  githubRepo: "https://github.com/21e8/boden-tremp-2024",
-  twitter: "https://twitter.com/thereal0xalice",
+  author: "Buck Fitches",
+
   slippageBps: "10000",
+  githubRepo: "",
+  twitter: ""
 };

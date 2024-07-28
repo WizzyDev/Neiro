@@ -7,8 +7,8 @@ import { Providers } from "./_providers";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "BODEN TREMP 2024",
-  description: "A Solana fun project for tracking and purchasing Tremp/Boden tokens",
+  title: "Neiro vs Neiro",
+  description: "Which Neiro is the real Neiro. Vote with your wallet. There can only be one Neiro.",
 };
 
 export default function RootLayout({
