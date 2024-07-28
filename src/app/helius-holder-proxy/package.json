@@ -1,0 +1,13 @@
+{
+  "name": "helius-proxy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "21e8 <alize_in_cryptoland@protonmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@solana/web3.js": "^1.91.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
