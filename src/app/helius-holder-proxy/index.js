@@ -7,9 +7,9 @@ dotenv.config();
 app.use(
   cors({
     origin: [
-      "http://localhost:3000",
-      "https://boden-tremp-2024.vercel.app",
-      "https://www.bodentremp2024.com",
+      //"http://localhost:3000",*//
+      "https://neiro-eight.vercel.app/",
+      //"https://www.bodentremp2024.com",
     ],
   })
 );
